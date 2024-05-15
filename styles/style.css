@@ -1,0 +1,35 @@
+
+*{box-sizing: border-box;
+margin: 0px;;
+padding: 3px;
+}
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.content{
+    display: flex;
+    position: absolute;
+    top: 30px;
+    right: 50px;
+    flex-direction: row;
+    padding-right: 50px;
+    width: 350px;
+    justify-content: right;
+    border: greenyellow solid;
+    list-style-type: none;
+       
+}
+
+.spotify-logo{
+    border: aquamarine solid;
+}
+
+.landing{
+    position: absolute;
+    top: 81px;
+    left: 4px;
+}
