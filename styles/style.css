@@ -62,6 +62,9 @@ section{
 .title{
     padding-bottom: 10px;
     border-bottom: 2px solid green;
+    
+
+
   
 }
 
@@ -69,7 +72,8 @@ section{
     display: flex;
     width: 100%;
     justify-content: space-evenly;
-    
+    width: 92%
+
     
 }
 
